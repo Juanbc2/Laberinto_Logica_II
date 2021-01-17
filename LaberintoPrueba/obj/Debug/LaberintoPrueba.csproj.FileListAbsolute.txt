@@ -1,0 +1,6 @@
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoPrueba\LaberintoPrueba\bin\Debug\LaberintoPrueba.exe.config
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoPrueba\LaberintoPrueba\bin\Debug\LaberintoPrueba.exe
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoPrueba\LaberintoPrueba\bin\Debug\LaberintoPrueba.pdb
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoPrueba\LaberintoPrueba\obj\Debug\LaberintoPrueba.csprojResolveAssemblyReference.cache
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoPrueba\LaberintoPrueba\obj\Debug\LaberintoPrueba.exe
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoPrueba\LaberintoPrueba\obj\Debug\LaberintoPrueba.pdb
