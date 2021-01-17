@@ -1,0 +1,9 @@
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoLogicaII\LaberintoLogicaII\bin\Debug\LaberintoLogicaII.exe.config
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoLogicaII\LaberintoLogicaII\bin\Debug\LaberintoLogicaII.exe
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoLogicaII\LaberintoLogicaII\bin\Debug\LaberintoLogicaII.pdb
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoLogicaII\LaberintoLogicaII\obj\Debug\LaberintoLogicaII.csprojResolveAssemblyReference.cache
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoLogicaII\LaberintoLogicaII\obj\Debug\LaberintoLogicaII.Form1.resources
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoLogicaII\LaberintoLogicaII\obj\Debug\LaberintoLogicaII.Properties.Resources.resources
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoLogicaII\LaberintoLogicaII\obj\Debug\LaberintoLogicaII.csproj.GenerateResource.Cache
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoLogicaII\LaberintoLogicaII\obj\Debug\LaberintoLogicaII.exe
+c:\users\juan\documents\visual studio 2013\Projects\LaberintoLogicaII\LaberintoLogicaII\obj\Debug\LaberintoLogicaII.pdb
